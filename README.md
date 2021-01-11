@@ -3,7 +3,7 @@
 ## Umut Sönmez
 
 ```
-About Me
+Hello World :)
 ♥ 💻 JS , CSS, HTML
 
 ```
@@ -24,7 +24,7 @@ About Me
 </a> 
 
 
-![GitHub metrics](https://metrics.lecoq.io/UmutSonmezGithub) 
+
 
 
 ### Spotify 
