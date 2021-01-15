@@ -1,4 +1,4 @@
-![](https://www.behance.net/gallery/82113757/2019-Social-Media-Designs)
+![](https://cdn.discordapp.com/attachments/750447690965450793/750454805134180513/EWIOLwRWkAA8En3.jpg)
 
 
 ## Umut Sönmez
