@@ -1,4 +1,5 @@
-![](https://ugurkerti.com/wp-content/uploads/2016/11/about-me-1.jpg)
+![](https://www.behance.net/gallery/82113757/2019-Social-Media-Designs)
+
 
 ## Umut Sönmez
 
