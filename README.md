@@ -3,7 +3,7 @@
 ## Umut Sönmez
 
 ```
-Hello World :)
+Discord Bot Developer
 ♥ 💻 JS , CSS, HTML
 
 ```
