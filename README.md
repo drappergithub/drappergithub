@@ -4,7 +4,7 @@
 ## Umut Sönmez
 
 ```
-Discord Bot Developer
+Güncell Değil
 ♥ 💻 JS , CSS, HTML
 
 ```
