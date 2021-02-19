@@ -28,10 +28,7 @@ I continue to improve myself every day and I am on the github student developer 
 
 
 
-
-
-```md
-```
+<br><br>
 
 
 ![Profile views](https://gpvc.arturio.dev/UmutSonmezGithub)  
