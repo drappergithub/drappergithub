@@ -1,4 +1,4 @@
-![](Foto)
+![](https://cdn.discordapp.com/attachments/768801252791418880/812112986746912819/IMG-20210219-WA0001.jpg)
 
 
 ## Umut Sönmez
