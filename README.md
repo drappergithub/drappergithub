@@ -32,8 +32,8 @@ Güncell Değil
 
 
 ```md
+```
 
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/UmutSonmezGithub)  
-```
+
