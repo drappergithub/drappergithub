@@ -4,7 +4,8 @@
 ## Umut Sönmez
 
 ```css
-Hi, I am a student who is studying on web development, 
+Hello my name is Umut, I am working with the software,
+I am a student who is studying on web development,
 I continue to improve myself every day and I am on the github student developer pack program and I design my projects
 ```
  
