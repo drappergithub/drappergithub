@@ -4,8 +4,8 @@
 ## Umut Sönmez
 
 ```js
-Hi, I am a student who is studying on web development, I continue to improve myself every day and I am on the github student developer pack program and I design my projects
-
+Hi, I am a student who is studying on web development, 
+I continue to improve myself every day and I am on the github student developer pack program and I design my projects
 ```
  
 **Skills:**  
