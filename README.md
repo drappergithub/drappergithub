@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/769531308769804318/812628267295178782/github.png)
+![](https://cdn.discordapp.com/attachments/769531308769804318/812630322599559198/github2.png)
 
 
 ## Umut Sönmez
