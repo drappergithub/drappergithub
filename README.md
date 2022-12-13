@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/984444407694647337/1052206313712660540/DRAPPER_1.gif(https://rishavchanda.io)
+[![MasterHead](https://media.discordapp.net/attachments/984444407694647337/1052206313712660540/DRAPPER_1.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Drapper 'Umut'>
 <h3 align="center">TEST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
