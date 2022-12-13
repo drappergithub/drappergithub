@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/984444407694647337/1052206313712660540/DRAPPER_1.gif)
+![](https://media.discordapp.net/attachments/722951055792668756/812118031374876682/IMG-20210219-WA0001.jpg)
 
 
 ## Umut 
